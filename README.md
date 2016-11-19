@@ -51,3 +51,15 @@ To-Do
 -----
 - Remove duplicates (i.e., repeats)
 - ~~Filter out when mp3 does not exist~~
+
+
+
+
+Recommendation
+----
+
+**Use @robert903 's hosted feed --** 
+
+http://robertrichards.me/tal/feed.rss
+
+http://feeds.feedburner.com/robtal
