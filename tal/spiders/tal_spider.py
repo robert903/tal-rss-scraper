@@ -18,8 +18,9 @@ THIS_YEAR = date.today().year
 FIRST_YEAR = 1995
 ARCHIVE_URL = 'http://www.thisamericanlife.org/radio-archives/{0}'
 EPISODE_FILE_URLS = (
-    ('audio.thisamericanlife.org', '/jomamashouse/ismymamashouse/{0}.mp3'),
+    #('audio.thisamericanlife.org', '/jomamashouse/ismymamashouse/{0}.mp3'),
     ('podcast.thisamericanlife.org', '/podcast/{0}.mp3'),
+    ('audio.thisamericanlife.org', '/{0}/{0}.mp3')
 )
 
 class TALSpider(BaseSpider):
